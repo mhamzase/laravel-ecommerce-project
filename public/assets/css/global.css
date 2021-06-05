@@ -1,0 +1,41 @@
+*{
+      padding: 0;
+      margin: 0;
+      font-family: Montserrat;
+}
+
+img.slider-img{
+      height: 400px !important;
+}
+.custom-home{
+      min-height: 550px !important;
+}
+.slider-text{
+      background-color: rgb(170, 170, 172) !important;
+      color: black !important;
+}
+.trending-img{
+      height: 120px !important;
+}
+.trending-item{
+      width: 20% !important;
+      float: left !important;
+}
+.trending-block{
+      margin:40px !important;
+}
+.search-box{
+      width: 600px !important;
+}
+.search-result-page{
+      min-height: 505px !important;
+} 
+.product-detail{
+      min-height: 505px !important;
+}
+.cart-icon{
+      font-size: 25px !important;
+}
+.ordernow{
+      min-height: 513px;
+}
